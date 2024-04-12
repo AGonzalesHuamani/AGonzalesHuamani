@@ -1,7 +1,3 @@
-
-<p align="center">
-¡Hola, soy Antone! 
-</p>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> ** ¡Bienvenido a mi perfil de GitHub! 👋**
 
@@ -30,7 +26,6 @@ Soy Antone, una apasionada desarrolladora Full Stack con 35 años de edad. Me en
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
-🚀 ### Principal Stack
 
 **Lenguaje de Programación**
 
